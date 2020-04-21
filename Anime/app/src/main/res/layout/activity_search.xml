@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Search_Activity">
+        <SearchView
+            android:id="@+id/searchView"
+            android:hint="search"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+        </SearchView>
+    <androidx.recyclerview.widget.RecyclerView
+        android:background="#F3F2F2"
+        android:id="@+id/recycleView_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_Test</string>
+    <string name="title_activity_bottom_navigation">bottom_navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Explore</string>
+    <string name="title_notifications">Libary</string>
+    <string name="title_account">Account</string>
+
+    <string name="title_all">All</string>
+    <string name="title_romance">Romance</string>
+    <string name="title_drama">Drama</string>
+    <string name="title_adventure">Adventure</string>
+    <string name="title_fantasy">Fantasy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
